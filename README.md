@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4020-elevator-requests-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/4020-elevator-requests-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
