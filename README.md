@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0390-elimination-game](https://github.com/vishalr0033/leetcode-solutions/tree/master/0390-elimination-game) |
 | [3870-count-commas-in-range](https://github.com/vishalr0033/leetcode-solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
