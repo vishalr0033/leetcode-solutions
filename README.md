@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/vishalr0033/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [4020-elevator-requests-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0390-elimination-game](https://github.com/vishalr0033/leetcode-solutions/tree/master/0390-elimination-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vishalr0033/leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
