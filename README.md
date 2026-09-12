@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vishalr0033/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/vishalr0033/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2293-min-max-game](https://github.com/vishalr0033/leetcode-solutions/tree/master/2293-min-max-game) |
@@ -71,4 +72,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
