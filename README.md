@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/vishalr0033/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/vishalr0033/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/vishalr0033/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [4020-elevator-requests-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Simulation
 |  |
