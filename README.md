@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2293-min-max-game](https://github.com/vishalr0033/leetcode-solutions/tree/master/2293-min-max-game) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vishalr0033/leetcode-solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [4020-elevator-requests-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Linked List
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalr0033/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vishalr0033/leetcode-solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Counting
 |  |
 | ------- |
