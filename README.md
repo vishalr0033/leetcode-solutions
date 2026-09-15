@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/vishalr0033/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/vishalr0033/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalr0033/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/vishalr0033/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vishalr0033/leetcode-solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Counting
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/vishalr0033/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/vishalr0033/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Binary Search
 |  |
 | ------- |
