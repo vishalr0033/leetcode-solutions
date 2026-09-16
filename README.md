@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0680-valid-palindrome-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalr0033/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalr0033/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vishalr0033/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
