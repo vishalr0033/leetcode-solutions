@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/vishalr0033/leetcode-solutions/tree/master/0050-powx-n) |
 | [0390-elimination-game](https://github.com/vishalr0033/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0788-rotated-digits](https://github.com/vishalr0033/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/vishalr0033/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/vishalr0033/leetcode-solutions/tree/master/0050-powx-n) |
 | [0390-elimination-game](https://github.com/vishalr0033/leetcode-solutions/tree/master/0390-elimination-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
