@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/vishalr0033/leetcode-solutions/tree/master/0461-hamming-distance) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/vishalr0033/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/vishalr0033/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Dynamic Programming
 |  |
