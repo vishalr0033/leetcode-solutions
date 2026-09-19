@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vishalr0033/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/vishalr0033/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1399-count-largest-group](https://github.com/vishalr0033/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/vishalr0033/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vishalr0033/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3870-count-commas-in-range](https://github.com/vishalr0033/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vishalr0033/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vishalr0033/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
