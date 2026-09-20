@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vishalr0033/leetcode-solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/vishalr0033/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vishalr0033/leetcode-solutions/tree/master/0078-subsets) |
 | [0461-hamming-distance](https://github.com/vishalr0033/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vishalr0033/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/vishalr0033/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vishalr0033/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vishalr0033/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
