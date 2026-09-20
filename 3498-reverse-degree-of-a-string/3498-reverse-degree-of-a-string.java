@@ -5,6 +5,7 @@ class Solution {
         for(char ch : s.toCharArray()){
             int temp = Math.abs(ch-'z');
             ans += (temp+1) * pro;
+            System.out.print(ans);
             pro++;
         }
         return ans;
