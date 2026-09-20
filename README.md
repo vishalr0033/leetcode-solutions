@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/vishalr0033/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1518-water-bottles](https://github.com/vishalr0033/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/vishalr0033/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [2485-find-the-pivot-integer](https://github.com/vishalr0033/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/vishalr0033/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3870-count-commas-in-range](https://github.com/vishalr0033/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vishalr0033/leetcode-solutions/tree/master/0078-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/vishalr0033/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
