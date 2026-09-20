@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/vishalr0033/leetcode-solutions/tree/master/1518-water-bottles) |
 | [2293-min-max-game](https://github.com/vishalr0033/leetcode-solutions/tree/master/2293-min-max-game) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vishalr0033/leetcode-solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3498-reverse-degree-of-a-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Linked List
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/vishalr0033/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vishalr0033/leetcode-solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3498-reverse-degree-of-a-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
