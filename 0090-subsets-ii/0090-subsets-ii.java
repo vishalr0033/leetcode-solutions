@@ -1,19 +1,50 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        Arrays.sort(nums);
-        Set<List<Integer>> ans = new HashSet<>();
+        nums = mergesort(nums);
+        List<List<Integer>> ans = new ArrayList<>();
         fun(0,nums,new ArrayList<>(),ans);
-        List<List<Integer>> ans1 = new ArrayList<>(ans);
-        return ans1;
+        return ans;
     }
-    static void fun(int index,int[] list,List<Integer> curr,Set<List<Integer>> ans){
-        if(index >= list.length){
-            ans.add(new ArrayList<>(curr));
+    static void fun(int index,int[] arr,List<Integer> list,List<List<Integer>> ans){
+        if(index >= arr.length){
+            if(!ans.contains(list)){
+                ans.add(new ArrayList<>(list));
+                return;
+            }
             return;
         }
-        curr.add(list[index]);
-        fun(index+1,list,curr,ans);
-        curr.remove(curr.size()-1);
-        fun(index+1,list,curr,ans);
+        list.add(arr[index]);
+        fun(index+1,arr,list,ans);
+        list.remove(list.size()-1);
+        fun(index+1,arr,list,ans);
+    }
+    static int[] mergesort(int[] arr){
+        if(arr.length <= 1){
+            return arr;
+        }
+        int mid = arr.length/2;
+        int left[] = mergesort(Arrays.copyOfRange(arr,0,mid));
+        int right[] = mergesort(Arrays.copyOfRange(arr,mid,arr.length));
+        return merge(left,right);
+    }
+    static int[] merge(int left[],int right[]){
+        int ans[] = new int[left.length+right.length];
+        int i = 0;
+        int j = 0;
+        int k = 0;
+        while(i < left.length && j < right.length){
+            if(left[i] < right[j]){
+                ans[k++] = left[i++];
+            }else{
+                ans[k++] = right[j++];
+            }
+        }
+        while(i < left.length){
+            ans[k++] = left[i++];
+        }
+        while(j < right.length){
+            ans[k++] = right[j++];
+        }
+        return ans;
     }
 }
