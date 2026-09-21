@@ -6,17 +6,13 @@ class Solution {
         return ans;
     }
     static void fun(int index,int[] arr,List<Integer> list,List<List<Integer>> ans){
-        if(index >= arr.length){
-            if(!ans.contains(list)){
-                ans.add(new ArrayList<>(list));
-                return;
-            }
-            return;
+        ans.add(new ArrayList<>(list));
+        for(int i=index;i<arr.length;i++){
+            if(i!=index && arr[i] == arr[i-1]) continue;
+            list.add(arr[i]);
+            fun(i+1,arr,list,ans);
+            list.remove(list.size()-1);
         }
-        list.add(arr[index]);
-        fun(index+1,arr,list,ans);
-        list.remove(list.size()-1);
-        fun(index+1,arr,list,ans);
     }
     static int[] mergesort(int[] arr){
         if(arr.length <= 1){
