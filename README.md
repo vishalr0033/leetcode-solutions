@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/vishalr0033/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalr0033/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/vishalr0033/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/vishalr0033/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0788-rotated-digits](https://github.com/vishalr0033/leetcode-solutions/tree/master/0788-rotated-digits) |
 ## Enumeration
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vishalr0033/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vishalr0033/leetcode-solutions/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/vishalr0033/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Prefix Sum
 |  |
 | ------- |
