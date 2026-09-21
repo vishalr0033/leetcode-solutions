@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vishalr0033/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vishalr0033/leetcode-solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/vishalr0033/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vishalr0033/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vishalr0033/leetcode-solutions/tree/master/0078-subsets) |
 ## Prefix Sum
 |  |
