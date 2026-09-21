@@ -13,11 +13,11 @@ class Solution {
                 return;
             }
         }
-        curr.add(cand[index]);
         if(cand[index] <= target){
+            curr.add(cand[index]);
             fun(index,cand,curr,target-cand[index],ans);
+            curr.remove(curr.size() - 1);
         }
-        curr.remove(curr.size() - 1);
         fun(index+1,cand,curr,target,ans);
     }
 }
