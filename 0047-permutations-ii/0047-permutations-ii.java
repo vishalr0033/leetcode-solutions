@@ -1,6 +1,6 @@
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
-        // nums = mergesort(nums);
+        nums = mergesort(nums);
         Set<List<Integer>> an = new HashSet<>();
         fun(0,nums,an);
         List<List<Integer>> ans = new ArrayList<>(an);
