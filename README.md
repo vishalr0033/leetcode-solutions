@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vishalr0033/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/vishalr0033/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/vishalr0033/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/vishalr0033/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vishalr0033/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1399-count-largest-group](https://github.com/vishalr0033/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/vishalr0033/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalr0033/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishalr0033/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/vishalr0033/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1399-count-largest-group](https://github.com/vishalr0033/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/vishalr0033/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
