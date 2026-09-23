@@ -1,7 +1,7 @@
 class Solution {
     public String getPermutation(int n, int k) {
-        List<Integer> list = new ArrayList<>();
         int fact = 1;
+        List<Integer> list = new ArrayList<>();
         for(int i=1;i<n;i++){
             fact *= i;
             list.add(i);
@@ -15,8 +15,8 @@ class Solution {
             if(list.size()==0){
                 break;
             }
-            k = k % fact;
-            fact = fact / list.size();
+            k = k%fact;
+            fact = fact/list.size();
         }
         return ans;
     }
