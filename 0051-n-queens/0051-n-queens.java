@@ -1,37 +1,14 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> ans = new ArrayList<>();
-        char[][] board = new char[n][n];
+        char board[][] = new char[n][n];
         for(int i=0;i<n;i++){
             Arrays.fill(board[i],'.');
         }
         fun(0,board,ans,n);
         return ans;
     }
-    static boolean isSafe(int row,int col ,char[][] board,int n){
-        int dr = row;
-        int dc = col;
-        while(col >= 0){
-            if(board[row][col]=='Q') return false;
-            col--;
-        }
-        row = dr;
-        col = dc;
-        while(row >= 0 && col >= 0){
-            if(board[row][col]=='Q') return false;
-            row--;
-            col--;
-        }
-        row = dr;
-        col = dc;
-        while(row < n && col >=0){
-            if(board[row][col] == 'Q') return false;
-            row++;
-            col--;
-        }
-        return true;
-    }
-    void fun(int col,char[][] board,List<List<String>> list,int n){
+    static void fun(int col,char[][] board,List<List<String>> list ,int n){
         if(col==n){
             List<String> li = new ArrayList<>();
             for(int i=0;i<n;i++){
@@ -40,12 +17,41 @@ class Solution {
             list.add(li);
             return;
         }
-        for(int row = 0; row < n; row++){
-            if(isSafe(row,col,board,n)){
+        for(int row = 0;row < n;row++){
+            if(isValid(row,col,board,n)){
                 board[row][col] = 'Q';
                 fun(col+1,board,list,n);
-                board[row][col] = '.';
+                board[row][col]='.';
             }
         }
+    }
+    static boolean isValid(int row , int col , char[][] b,int n){
+        int rd = row;
+        int cd = col;
+        while(row >= 0 && col >= 0){
+            if(b[row][col]=='Q'){
+                return false;
+            }
+            row--;
+            col--;
+        }
+        row = rd;
+        col = cd;
+        while(col >= 0){
+            if(b[row][col]=='Q'){
+                return false;
+            }
+            col--;
+        }
+        row = rd;
+        col = cd;
+        while( row < n && col >= 0){
+            if(b[row][col]=='Q'){
+                return false;
+            }
+            row++;
+            col--;
+        }
+        return true;
     }
 }
