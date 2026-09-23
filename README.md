@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vishalr0033/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vishalr0033/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vishalr0033/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0040-combination-sum-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/vishalr0033/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vishalr0033/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [1399-count-largest-group](https://github.com/vishalr0033/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/vishalr0033/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vishalr0033/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vishalr0033/leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## Dancing Links
 |  |
