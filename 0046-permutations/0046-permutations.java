@@ -1,22 +1,22 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
         boolean bol[] = new boolean[nums.length];
-        fun(nums,new ArrayList<>(),ans,bol);
-        return ans;
+        List<List<Integer>> list = new ArrayList<>();
+        fun(new ArrayList<>(),list,nums,bol);
+        return list;
     }
-    static void fun(int []arr,List<Integer> curr,List<List<Integer>> ans,boolean[] bol){
-        if(arr.length==curr.size()){
-            ans.add(new ArrayList<>(curr));
+    static void fun(List<Integer> li,List<List<Integer>> list,int []num,boolean[] flag){
+        if(num.length==li.size()){
+            list.add(new ArrayList<>(li));
             return;
         }
-        for(int i=0;i<arr.length;i++){
-            if(!bol[i]){
-                bol[i] = true;
-                curr.add(arr[i]);
-                fun(arr,curr,ans,bol);
-                curr.remove(curr.size()-1);
-                bol[i]=false;
+        for(int i=0;i<num.length;i++){
+            if(!flag[i]){
+                flag[i] = true;
+                li.add(num[i]);
+                fun(li,list,num,flag);
+                li.remove(li.size()-1);
+                flag[i] = false;
             }
         }
     }
