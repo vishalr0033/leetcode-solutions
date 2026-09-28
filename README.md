@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalr0033/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishalr0033/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalr0033/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/vishalr0033/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/vishalr0033/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/vishalr0033/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalr0033/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalr0033/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalr0033/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishalr0033/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
 | ------- |
