@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vishalr0033/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0397-integer-replacement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/vishalr0033/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0476-number-complement) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vishalr0033/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vishalr0033/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/vishalr0033/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0397-integer-replacement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0788-rotated-digits](https://github.com/vishalr0033/leetcode-solutions/tree/master/0788-rotated-digits) |
 ## Enumeration
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalr0033/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vishalr0033/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
