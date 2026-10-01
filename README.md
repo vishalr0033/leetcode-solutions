@@ -150,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0506-relative-ranks](https://github.com/vishalr0033/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vishalr0033/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vishalr0033/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vishalr0033/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
