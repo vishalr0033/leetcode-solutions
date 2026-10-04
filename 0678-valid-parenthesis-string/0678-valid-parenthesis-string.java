@@ -1,0 +1,20 @@
+class Solution {
+    public boolean checkValidString(String s) {
+        int min = 0;
+        int max = 0;
+        for(char ch : s.toCharArray()){
+            if(ch=='('){
+                max++;min++;
+            }else if(ch==')'){
+                max--;min--;
+            }
+            else if(ch=='*'){
+                min--;max++;
+            }
+            if(max<0) return false;
+            min = Math.max(0,min);
+        }
+        
+        return min==0;
+    }
+}
