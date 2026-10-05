@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vishalr0033/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/vishalr0033/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vishalr0033/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vishalr0033/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/vishalr0033/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vishalr0033/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/vishalr0033/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1399-count-largest-group](https://github.com/vishalr0033/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/vishalr0033/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vishalr0033/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vishalr0033/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vishalr0033/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/vishalr0033/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/vishalr0033/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/vishalr0033/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0506-relative-ranks](https://github.com/vishalr0033/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vishalr0033/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
