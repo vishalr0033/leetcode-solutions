@@ -5,14 +5,10 @@ class Solution {
             if(stack.isEmpty()){
                 stack.push(ch);
             }else{
-                char a = stack.peek();
-                // if(ch=='(' && a==')'){
-                //     stack.pop();
-                // }
-                if(ch==')' && a=='('){
+                char b = stack.peek();
+                if(b=='(' && ch==')'){
                     stack.pop();
-                }
-                else{
+                }else{
                     stack.push(ch);
                 }
             }
