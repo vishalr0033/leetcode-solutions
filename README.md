@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/vishalr0033/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0506-relative-ranks](https://github.com/vishalr0033/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/vishalr0033/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/vishalr0033/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/vishalr0033/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1399-count-largest-group](https://github.com/vishalr0033/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/vishalr0033/leetcode-solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0397-integer-replacement) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
