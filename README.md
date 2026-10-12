@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vishalr0033/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vishalr0033/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vishalr0033/leetcode-solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/vishalr0033/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/vishalr0033/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/vishalr0033/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vishalr0033/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
