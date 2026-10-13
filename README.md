@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/vishalr0033/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishalr0033/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vishalr0033/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vishalr0033/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishalr0033/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishalr0033/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/vishalr0033/leetcode-solutions/tree/master/0788-rotated-digits) |
+| [1143-longest-common-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
 |  |
 | ------- |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
