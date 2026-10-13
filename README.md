@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/vishalr0033/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/vishalr0033/leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/vishalr0033/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/vishalr0033/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
