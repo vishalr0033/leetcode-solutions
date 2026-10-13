@@ -317,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/vishalr0033/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
