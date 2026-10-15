@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/vishalr0033/leetcode-solutions/tree/master/2293-min-max-game) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/vishalr0033/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishalr0033/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/vishalr0033/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalr0033/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/vishalr0033/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -325,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/vishalr0033/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vishalr0033/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vishalr0033/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
