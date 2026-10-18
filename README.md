@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/vishalr0033/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishalr0033/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/vishalr0033/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishalr0033/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/vishalr0033/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalr0033/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/vishalr0033/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/vishalr0033/leetcode-solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Algorithm X
 |  |
 | ------- |
