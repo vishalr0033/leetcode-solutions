@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0506-relative-ranks](https://github.com/vishalr0033/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0526-beautiful-arrangement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0704-binary-search](https://github.com/vishalr0033/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/vishalr0033/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/vishalr0033/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/vishalr0033/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0476-number-complement) |
+| [0526-beautiful-arrangement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vishalr0033/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/vishalr0033/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Dynamic Programming
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0678-valid-parenthesis-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/vishalr0033/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [1143-longest-common-subsequence](https://github.com/vishalr0033/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vishalr0033/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/vishalr0033/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0526-beautiful-arrangement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -337,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/vishalr0033/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
