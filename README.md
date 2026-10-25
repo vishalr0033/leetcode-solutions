@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vishalr0033/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vishalr0033/leetcode-solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/vishalr0033/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [4020-elevator-requests-i](https://github.com/vishalr0033/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Linked List
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vishalr0033/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/vishalr0033/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3894-traffic-signal-color](https://github.com/vishalr0033/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vishalr0033/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vishalr0033/leetcode-solutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/vishalr0033/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/vishalr0033/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Counting
 |  |
 | ------- |
