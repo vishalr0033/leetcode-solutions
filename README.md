@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/vishalr0033/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/vishalr0033/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vishalr0033/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1890-the-latest-login-in-2020](https://github.com/vishalr0033/leetcode-solutions/tree/master/1890-the-latest-login-in-2020) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vishalr0033/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Binary Indexed Tree
 |  |
