@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/vishalr0033/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/vishalr0033/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/vishalr0033/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/vishalr0033/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1587-bank-account-summary-ii](https://github.com/vishalr0033/leetcode-solutions/tree/master/1587-bank-account-summary-ii) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vishalr0033/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/vishalr0033/leetcode-solutions/tree/master/1789-primary-department-for-each-employee) |
